@@ -1,0 +1,11 @@
+.navbar {
+  background-color:
+    RGB(44, 62, 80) !important;
+  overflow: hidden;
+}
+.active-link{
+  color: white;
+  background-color:RGB(26, 188, 156) ;
+  padding: 10px 5px;
+  border-radius: 5px;
+}
